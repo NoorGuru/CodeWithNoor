@@ -2,7 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Code With Noor`,
     description: `Learn to Code in Arabic with Noor: Python, C++, Java, Scala, and more!`,
-    author: `@moh_noor94`,
+    author: `Mohammad Noor AbuKhleif @moh_noor94`,
+    siteUrl: "https://codewithnoot.com",
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -30,5 +31,6 @@ module.exports = {
     // this (optional) plugin enables Progressive Web App + Offline functionality
     // To learn more, visit: https://gatsby.dev/offline
     // `gatsby-plugin-offline`,
+    'gatsby-plugin-sass',
   ],
 }
