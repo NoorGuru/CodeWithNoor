@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{YL0l:function(e,t,n){"use strict";n.r(t);var a=n("q1tI"),l=n.n(a),r=n("Bl7J"),c=n("vrFN");t.default=function(){return l.a.createElement(r.a,null,l.a.createElement(c.a,{title:"Updates"}),l.a.createElement("h1",null,"Updates"))}}}]);
+//# sourceMappingURL=component---src-pages-updates-js-b28f3792b38f84119f70.js.map
