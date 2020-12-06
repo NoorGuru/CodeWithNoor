@@ -2,8 +2,9 @@ module.exports = {
   siteMetadata: {
     title: `Code With Noor`,
     description: `Learn to Code in Arabic with Noor: Python, C++, Java, Scala, and more!`,
-    author: `Mohammad Noor AbuKhleif @moh_noor94`,
-    siteUrl: "https://codewithnoot.com",
+    author: `Mohammad Noor AbuKhleif`,
+    siteUrl: 'https://www.codewithnoot.com',
+    twitter: 'https://twitter.com/moh_noor94',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,

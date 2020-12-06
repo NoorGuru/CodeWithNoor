@@ -19,6 +19,9 @@ const NavBar = () => (
             <li>
                 <Link className={style.navItem} activeClassName={style.activeNavItem} to="/contact/">Contact Us</Link>
             </li>
+            <li>
+                <Link className={style.navItem} activeClassName={style.activeNavItem} to="/updates/">Updates</Link>
+            </li>
         </ul>
     </nav>
 )
